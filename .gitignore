@@ -1,0 +1,9 @@
+.idea/*
+*.iml
+*/target/*
+*/target/**
+.classpath
+.project
+.settings/
+# Project exclude paths
+/target/
